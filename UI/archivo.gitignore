@@ -1,0 +1,8 @@
+# Carpetas de compilación (Basura)
+bin/
+obj/
+.vs/
+
+# Archivos de usuario
+*.user
+*.suo
